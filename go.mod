@@ -1,6 +1,6 @@
 module github.com/chandler767/Golang-on-Railway
 
-go 1.21.3
+go 1.18
 
 require (
 	github.com/chandler767/SocialLoginOAuth v0.0.0-20230821164508-f0493f66f467
